@@ -1,0 +1,25 @@
+README.md
+  72aa24c039859edf 1-17
+bucket/git-why.json
+  72aa24c039859edf 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "e368a7c1b28828848061988d01f498f5bd5534d1",
+  "prompts": {
+    "72aa24c039859edf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3bc306f0-7f6a-4cbf-9729-95ddd55cdc15",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Quan Nguyen <quannguyenminh27082007@gmail.com>",
+      "messages": [],
+      "total_additions": 41,
+      "total_deletions": 0,
+      "accepted_lines": 41,
+      "overriden_lines": 0
+    }
+  }
+}
