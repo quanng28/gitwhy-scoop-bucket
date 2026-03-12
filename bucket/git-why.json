@@ -1,12 +1,12 @@
 {
-  "version": "0.3.5",
+  "version": "0.3.6",
   "description": "The context layer for git",
   "homepage": "https://gitwhy.dev",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://dl.gitwhy.dev/v0.3.5/gitwhy_0.3.5_windows_amd64.zip",
-      "hash": "b44465242c0b997db3ccd65a291df3f2dbe47590703e1268716e735f60fc950a"
+      "url": "https://dl.gitwhy.dev/v0.3.6/gitwhy_0.3.6_windows_amd64.zip",
+      "hash": "c16d80f14f4636474cfd802a9bf3a84d4fb7146758eca26339ed93214661a2bd"
     }
   },
   "bin": "git-why.exe",
